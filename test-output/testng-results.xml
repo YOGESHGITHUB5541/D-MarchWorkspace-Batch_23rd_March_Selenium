@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="116" started-at="2023-01-30T23:43:10 IST" finished-at="2023-01-30T23:43:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="116" started-at="2023-01-30T23:43:10 IST" finished-at="2023-01-30T23:43:10 IST">
+      <class name="org.testNGEx1.DuplicatePriorityEx">
+        <test-method status="PASS" signature="login()[pri:1, instance:org.testNGEx1.DuplicatePriorityEx@306279ee]" name="login" duration-ms="14" started-at="2023-01-30T23:43:10 IST" finished-at="2023-01-30T23:43:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="CreatCustomer()[pri:3, instance:org.testNGEx1.DuplicatePriorityEx@306279ee]" name="CreatCustomer" duration-ms="2" started-at="2023-01-30T23:43:10 IST" finished-at="2023-01-30T23:43:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatCustomer -->
+        <test-method status="PASS" signature="creatCustomer()[pri:3, instance:org.testNGEx1.DuplicatePriorityEx@306279ee]" name="creatCustomer" duration-ms="5" started-at="2023-01-30T23:43:10 IST" finished-at="2023-01-30T23:43:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatCustomer -->
+        <test-method status="PASS" signature="UpdateCustomer()[pri:5, instance:org.testNGEx1.DuplicatePriorityEx@306279ee]" name="UpdateCustomer" duration-ms="1" started-at="2023-01-30T23:43:10 IST" finished-at="2023-01-30T23:43:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateCustomer -->
+        <test-method status="PASS" signature="updateCustomer()[pri:5, instance:org.testNGEx1.DuplicatePriorityEx@306279ee]" name="updateCustomer" duration-ms="2" started-at="2023-01-30T23:43:10 IST" finished-at="2023-01-30T23:43:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateCustomer -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:6, instance:org.testNGEx1.DuplicatePriorityEx@306279ee]" name="deleteCustomer" duration-ms="2" started-at="2023-01-30T23:43:10 IST" finished-at="2023-01-30T23:43:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="DeleteCustomer()[pri:7, instance:org.testNGEx1.DuplicatePriorityEx@306279ee]" name="DeleteCustomer" duration-ms="2" started-at="2023-01-30T23:43:10 IST" finished-at="2023-01-30T23:43:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCustomer -->
+        <test-method status="PASS" signature="logout()[pri:8, instance:org.testNGEx1.DuplicatePriorityEx@306279ee]" name="logout" duration-ms="3" started-at="2023-01-30T23:43:10 IST" finished-at="2023-01-30T23:43:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- org.testNGEx1.DuplicatePriorityEx -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

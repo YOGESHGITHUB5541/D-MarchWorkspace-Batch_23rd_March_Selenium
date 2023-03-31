@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression_Suite">
+  <test thread-count="5" name="Regression_Suite - DEV">
+    <classes>
+      <class name="org.testNGPractice2.UserManagerEx2"/>
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="Regression_Suite - STAGE">
+    <classes>
+      <class name="org.testNGPractice2.UserManagerEx3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Regression_Suite -->

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Dev Environment">
+    <classes>
+      <class name="org.testNGEx2.CustomerTC2"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="QA Environment">
+    <classes>
+      <class name="org.testNGEx2.AccountTC2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
